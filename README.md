@@ -2,15 +2,12 @@
 ## Mods
 * [OptiFine](https://optifine.net/downloads)
 
-
 ## Shader
 * [Continuum](http://continuumshader.com/)
-
 
 ## Resource Packs
 * [Realistico (Primary)](https://matteorizzo.me/realistico/)
 * [Pulchra Pure PBR (Secondary)](http://pulchrapurepbr.weebly.com/)
-
 
 **Versions**
 ```
